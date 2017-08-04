@@ -13,4 +13,6 @@ x  # Displays the values in x
 y <- c(6, 7, 8, 9, 10)  # Puts the numbers 6-10 in y
 y  # Displays y
 x + y  # Adds corresponding elements in x and y
-x * 2  # Multiplies each element in x by 2
+x * 2 # Multiplies each element in x by 2
+
+# test comment to make sure GITHUB is working.
